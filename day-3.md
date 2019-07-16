@@ -6,3 +6,5 @@
 1. SAFARI - JS CODE 
 1. Microsoft - Chakra code
 1. Mozilla - spiderMonkey 
+ #### Rendering of websites
+ ![render](https://github.com/KhushiK7/ReactJS-Phase1/blob/master/render.png)
